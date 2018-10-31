@@ -1,0 +1,9 @@
+.clear{
+    padding: 15px;
+}
+.editIcon{
+    cursor: pointer;
+}
+.deleteIcon{
+    cursor: pointer;
+}
